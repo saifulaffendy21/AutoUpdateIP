@@ -1,4 +1,4 @@
-# AutoUpdateIP
+# AutoUpdateIP [![Build Status](https://travis-ci.org/raboof/nethogs.svg?branch=master)](https://travis-ci.org/raboof/nethogs)
 This Python code will auto update current user IP Address in Smart DNS Proxy website
 
 ## How to use
@@ -9,7 +9,7 @@ This Python code will auto update current user IP Address in Smart DNS Proxy web
 5. Navigate to the folder [path](https://github.com/saifulaffendy21/AutoUpdateIP) using Windows PowerShell.
 6. Run command [`python .\Auto_Reload_Netflix.py`]
 
-## Required
+### Required
 1. Window 10
 2. Python 3.6
 3. ChromeDriver - WebDriver for Chrome
