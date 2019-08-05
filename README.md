@@ -7,6 +7,6 @@ This Python code will auto update current user IP Address in Smart DNS Proxy web
 
 
 # Required
--Window 10
--Python
--Chrome WebDriver
+1. Window 10
+2. Python
+3. Chrome WebDriver
