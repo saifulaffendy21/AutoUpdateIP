@@ -3,7 +3,7 @@ This Python code will auto update current user IP Address in Smart DNS Proxy web
 
 ### Why?
 1. Unblock content - access geo-restricted content.
-2. Netflix will disconnect user IP address when their detect usage of VPN into their service.
+2. Netflix will disconnect user IP address when their detect usage of VPN into their service every 3 minute.
 3. User need to Activate/Update their IP Address again in Smart DNS Proxy website to enalbe access Netflix.
 
 ### How to use
