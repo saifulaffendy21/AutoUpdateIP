@@ -2,7 +2,8 @@
 This Python code will auto update current user IP Address in Smart DNS Proxy website
 
 # How to use
-1. 
+1. Create an free trial account at [Smart DNS Proxy](https://www.smartdnsproxy.com/SignUp) 
+2. Change current network adapter DNS setting with [Smart DNS Proxy Servers](https://www.smartdnsproxy.com/Servers) 
 
 
 
